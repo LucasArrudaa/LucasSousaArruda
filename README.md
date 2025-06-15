@@ -18,7 +18,7 @@
 ## 📫 Contact
 
 Feel free to reach out:  
-✉️ lucassousaarrudaa@gmail.com 
+✉️ lucas.arruda@maisunifacisa.com.br
 
 ---
 
