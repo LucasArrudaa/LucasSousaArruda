@@ -4,9 +4,9 @@
 
 ### Familiarized with
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670F0?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-FFD700?style=for-the-badge&logo=python&logoColor=white)
 
 
 
