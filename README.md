@@ -12,7 +12,7 @@
 ## 🌍 Languages
 
 - Portuguese (native)
-- English (intermediate/)
+- English (intermediate)
 
 
 ## 📫 Contact
